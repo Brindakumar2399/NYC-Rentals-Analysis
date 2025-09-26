@@ -73,7 +73,7 @@ The R script (`analysis_code.R`) generates:
    git clone https://github.com/<your-username>/<repo-name>.git
    cd <repo-name>
    ```
-2. Open `analysis_code.R` in RStudio (or run in R).
+2. Open `Poster code.R` in RStudio (or run in R).
 3. Update dataset paths if needed (see script comments).
 4. Run the script to generate all figures.
 
